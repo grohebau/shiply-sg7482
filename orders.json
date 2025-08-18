@@ -1,0 +1,19 @@
+{
+  "G88526": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Thomas Kehl, Bleichestraße 9, 79576 Weil am Rhein, Deutschland",
+    "receiver": "Alexander Aust, Wettinstraße 16, 01640 Coswig, Deutschland",
+    "price": "4.100 €",
+    "description": "Hersteller: Yamaha<br>Typ: YZF-R125<br>Fahrgestelnummer: VG5RE401000003794<br>Erstzulassung: 10/03/2022<br>KM laut Vorbesitzer: 2.621 Km<br>Leistung: 11 kW (15 PS)<br>Hubraum: 124 cm³<br>Farbe: Schwarz<br><br>Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br>Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Alexander Aust<br>Wettinstraße 16<br>01640 Coswig<br>Deutschland<br>Telefon: +49 176 61391068",
+    "documents": [
+      { "name": "Lieferschein", "url": "docs/Lieferschein.pdf" },
+      { "name": "Kaufvertrag", "url": "docs/Kaufvertrag.pdf" },
+      { "name": "Rechnung", "url": "docs/Rechnung.pdf" },
+      { "name": "AGB", "url": "docs/AGB.pdf" }
+    ],
+    "orderDate": "18-08-2025",
+    "deliveryDate": "22-08-2025"
+  }
+}
